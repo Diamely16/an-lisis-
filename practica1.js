@@ -107,4 +107,4 @@ console. log (arearect(3,4))
 function areacir (pi,r){
     return rest = (pi*r)**2
 }
-console. log () 
+console. log ()
