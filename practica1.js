@@ -101,10 +101,10 @@ console. log(areacuadr(5,4))
 function arearect (b,al){
     return rest = (b*al)
 }
-console. log (arearect(3,4))
+console. log (arearect(4,5))
 
 //area del circulo//
 function areacir (pi,r){
     return rest = (pi*r)**2
 }
-console. log ()
+console. log (areacir(3.1416,4))
